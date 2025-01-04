@@ -1,43 +1,43 @@
-FaceDistanceMeasure 📏📸
+# **FaceDistanceMeasure** 📏📸  
+_A project to estimate the distance of a face from a camera using computer vision._
 
-A project to estimate the distance of a face from a camera using computer vision.
+---
 
-🌟 Features
+## 🌟 **Features**
+- 🎥 **Real-time face detection.**
+- 📏 **Accurate distance measurement** based on the size of the detected face.
+- 📂 **Easy-to-use and extend** for other object distance measurements.
+- 🧠 **Utilizes OpenCV and Haar Cascade** for efficient face detection.
 
-🎥 Real-time face detection.
+---
 
-📏 Accurate distance measurement based on the size of the detected face.
-
-📂 Easy-to-use and extend for other object distance measurements.
-
-🧠 Utilizes OpenCV and Haar Cascade for efficient face detection.
-
-🔧 Requirements
-
+## 🔧 **Requirements**
 Make sure you have the following installed:
+- **Python 3.7+**
+- **OpenCV 4.x**
+- **A working webcam or camera device**
 
-Python 3.7+
+---
 
-OpenCV 4.x
+## 🚀 **How It Works**
+1. **Captures video frames from your webcam.**
+2. **Detects faces using the Haar Cascade model.**
+3. **Calculates the distance of the face from the camera** using the formula:
+   \[
+   \text{Distance} = \frac{\text{Real Width of Object} \times \text{Focal Length}}{\text{Width of Object in Frame}}
+   \]
 
-A working webcam or camera device.
+---
 
-🚀 How It Works
-
-Captures video frames from your webcam.
-
-Detects faces using the Haar Cascade model.
-
-Calculates the distance of the face from the camera using the formula:
-
-📂 Project Structure
-
+## 📂 **Project Structure**
+```plaintext
 📁 Distance_measurement_using_single_camera
 ├── distance.py                # Main script
 ├── camera.py                  # Camera testing script
 ├── Ref_image.png              # Reference image for focal length calculation
 ├── haarcascade_frontalface_default.xml  # Haar Cascade model for face detection
 └── README.md                  # Project documentation
+
 
 🛠️ Installation
 
