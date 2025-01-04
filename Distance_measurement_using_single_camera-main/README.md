@@ -28,20 +28,6 @@ Make sure you have the following installed:
    \]
 
 ---
-
-## 📂 **Project Structure**
-```plaintext
-📁 Distance_measurement_using_single_camera
-├── distance.py                # Main script
-├── camera.py                  # Camera testing script
-├── Ref_image.png              # Reference image for focal length calculation
-├── haarcascade_frontalface_default.xml  # Haar Cascade model for face detection
-└── README.md                  # Project documentation
-
-
-
-
-
 # **FaceDistanceMeasure** 📏📸  
 _A project to estimate the distance of a face from a camera using computer vision._
 
@@ -87,3 +73,15 @@ Feel free to **create a pull request** or open an issue to get involved.
 
 ## 📜 **License**
 This project is licensed under the **MIT License**.  
+
+
+## 📂 **Project Structure**
+```plaintext
+📁 Distance_measurement_using_single_camera
+├── distance.py                # Main script
+├── camera.py                  # Camera testing script
+├── Ref_image.png              # Reference image for focal length calculation
+├── haarcascade_frontalface_default.xml  # Haar Cascade model for face detection
+└── README.md                  # Project documentation
+
+
