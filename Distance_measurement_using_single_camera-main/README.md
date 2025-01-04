@@ -58,25 +58,32 @@ pip install opencv-python
 Run the project:
 
 python distance.py
-🤔 Use Cases
-📚 Educational Purposes: Learn the basics of computer vision and distance estimation.
-🛠️ DIY Projects: Use it for robotics, surveillance, or smart home systems.
-🚗 Automotive Applications: Estimate distances for autonomous driving or parking systems.
-🛡️ Security Systems: Monitor and measure proximity for restricted areas.
+## 🤔 **Use Cases**
+- 📚 **Educational Purposes:** Learn the basics of computer vision and distance estimation.  
+- 🛠️ **DIY Projects:** Use it for robotics, surveillance, or smart home systems.  
+- 🚗 **Automotive Applications:** Estimate distances for autonomous driving or parking systems.  
+- 🛡️ **Security Systems:** Monitor and measure proximity for restricted areas.  
 
-📝 Acknowledgments
-Created by Haider Manzoor ✨.
-Inspired by the awesome community of AI and computer vision enthusiasts.
-🏗️ Future Improvements
-🔍 Support for multiple objects.
-⚡ Improved performance with deep learning models.
-📊 Detailed analytics and visualizations.
-💌 Contributing
-We welcome contributions! Create a pull request or open an issue to get involved.
+---
 
-📜 License
-This project is licensed under the MIT License.
+## 📝 **Acknowledgments**
+- ✨ **Created by Haider Manzoor.**  
+- Inspired by the awesome community of AI and computer vision enthusiasts.  
 
-🛡️ Disclaimer
-This project is for educational purposes only. Ensure ethical and legal use in your applications.
+---
 
+## 🏗️ **Future Improvements**
+- 🔍 **Support for multiple objects.**  
+- ⚡ **Improved performance** with deep learning models.  
+- 📊 **Detailed analytics and visualizations.**  
+
+---
+
+## 💌 **Contributing**
+We welcome contributions!  
+Feel free to **create a pull request** or open an issue to get involved.  
+
+---
+
+## 📜 **License**
+This project is licensed under the **MIT License**.  
