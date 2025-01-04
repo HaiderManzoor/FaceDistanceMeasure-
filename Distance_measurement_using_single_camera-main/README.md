@@ -48,7 +48,7 @@ python distance.py
 ## 📸 **Demo**
 Below is a demonstration of how the project works:  
 
-![FaceDistanceMeasure Demo](https://via.placeholder.com/800x400?text=Demo+Image)  
+![FaceDistanceMeasure Demo](./output.png)  
 *Image showing the face detection and distance measurement in action.*
 ## 🤔 **Use Cases**
 - 📚 **Educational Purposes:** Learn the basics of computer vision and distance estimation.  
