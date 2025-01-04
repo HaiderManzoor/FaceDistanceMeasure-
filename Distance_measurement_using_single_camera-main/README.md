@@ -41,10 +41,15 @@ _A project to estimate the distance of a face from a camera using computer visio
    cd FaceDistanceMeasure
    
 **Install dependencies:**
-**->**8pip install opencv-python
-**->**Run the project:
-
+pip install opencv-python
+**Run the project:**
 python distance.py
+
+## 📸 **Demo**
+Below is a demonstration of how the project works:  
+
+![FaceDistanceMeasure Demo](https://via.placeholder.com/800x400?text=Demo+Image)  
+*Image showing the face detection and distance measurement in action.*
 ## 🤔 **Use Cases**
 - 📚 **Educational Purposes:** Learn the basics of computer vision and distance estimation.  
 - 🛠️ **DIY Projects:** Use it for robotics, surveillance, or smart home systems.  
