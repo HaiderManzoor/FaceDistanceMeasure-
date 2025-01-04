@@ -49,7 +49,7 @@ python distance.py
 Below is a demonstration of how the project works:  
 
 ![FaceDistanceMeasure Demo](./output.png)  
-*Image showing the face detection and distance measurement in action.*
+*Image showing the face detection and distance measurement with a distance of 70.76cm from the camera*
 ## 🤔 **Use Cases**
 - 📚 **Educational Purposes:** Learn the basics of computer vision and distance estimation.  
 - 🛠️ **DIY Projects:** Use it for robotics, surveillance, or smart home systems.  
