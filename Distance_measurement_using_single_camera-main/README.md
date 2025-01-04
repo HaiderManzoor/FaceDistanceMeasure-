@@ -39,9 +39,10 @@ _A project to estimate the distance of a face from a camera using computer visio
    ```bash
    git clone https://github.com/your-username/FaceDistanceMeasure.git
    cd FaceDistanceMeasure
-Install dependencies:
-pip install opencv-python
-Run the project:
+   
+**Install dependencies:**
+**->**8pip install opencv-python
+**->**Run the project:
 
 python distance.py
 ## 🤔 **Use Cases**
