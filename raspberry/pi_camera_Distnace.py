@@ -2,7 +2,7 @@ from picamera.array import PiRGBArray
 from picamera import PiCamera
 import time
 import cv2 as cv
-import AiPhile
+import cv_utils
 
 # variables
 # distance from camera to object(face) measured
